@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-05-21 00:56:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-21 00:56:40 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /robots.txt - 80 - 40.77.167.49 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - mattharney.net 404 0 2 1314 279 391
+2021-05-21 00:56:53 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /PORTFOLIO_scifiTrainFront.html - 80 - 207.46.13.108 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - mattharney.net 200 0 0 2290 299 62
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-05-21 08:08:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-21 08:08:08 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /SKETCHES_LD_sittingWoman.html - 80 - 157.55.39.84 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - mattharney.net 200 0 0 2300 298 3812
+2021-05-21 08:10:35 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /robots.txt - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 404 0 2 1314 340 156
+2021-05-21 08:10:40 W3SVC91 P3NWVPWEB030 50.62.160.39 GET / - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 3099 330 5171
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-05-21 08:30:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-21 08:30:47 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /bm_callister.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2708 347 171
+2021-05-21 08:30:53 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /bm_callister_detail_shot.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2629 359 156
+2021-05-21 08:30:57 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /bm_valdack.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2575 345 156
+2021-05-21 08:31:02 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /mars_daedalus.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2697 348 172
+2021-05-21 08:31:07 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /mars_rover.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2658 345 156
+2021-05-21 08:31:16 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /mars_trailerbed.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2627 350 171
+2021-05-21 08:31:22 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /mars_workshop.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2593 348 187
+2021-05-21 08:31:28 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_alien.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2305 350 155
+2021-05-21 08:31:37 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_forestcurator.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2297 358 187
+2021-05-21 08:31:47 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_forestcuratorzbrush.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2312 364 187
+2021-05-21 08:31:59 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_infiltrator.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2345 356 171
+2021-05-21 08:32:11 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_olbess.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2321 351 171
+2021-05-21 08:32:24 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_scavenger.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2317 354 187
+2021-05-21 08:32:38 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_scifitrainback.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2287 359 171
+2021-05-21 08:32:51 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_scifitrainfront.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2290 360 156
+2021-05-21 08:33:06 W3SVC91 P3NWVPWEB030 50.62.160.39 GET /portfolio_scifitrainwires.html - 80 - 144.76.68.76 HTTP/1.1 serpstatbot/2.0+beta+(advanced+backlink+tracking+bot;+http://serpstatbot.com/;+abuse@serpstatbot.com) - - mattharney.net 200 0 0 2293 360 187
